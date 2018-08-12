@@ -1,4 +1,3 @@
-
 package com.example;
 
 /**
@@ -11,8 +10,7 @@ public class Greeter {
    */
   public Greeter() {
 
-  }
-  
+  }  
   /**
    * @param someone the name of a person
    * @return gretting string
