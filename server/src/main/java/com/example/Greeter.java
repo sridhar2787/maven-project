@@ -9,8 +9,8 @@ public class Greeter {
    * This is a constructor.
    */
   public Greeter() {
+  }
 
-  }  
   /**
    * @param someone the name of a person
    * @return gretting string
